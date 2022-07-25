@@ -1,7 +1,7 @@
 # Hunter College Advanced CS Education Certificate Portfolio
 ## CSCI 70900: Programming In a High-Level Language
 ### Name of first assignment
-![Picture of Conway's Game of Life Simulation](cgol picture.png "Text to show on mouseover")
+![Picture of Conway's Game of Life Simulation](cgolPicture.png "Text to show on mouseover")
 
 ### Name of second assignment
 stuff

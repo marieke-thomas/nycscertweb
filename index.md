@@ -13,7 +13,7 @@ See the code [here](https://replit.com/@mthomas42/cohort-3-summer-work-marieke-t
 ### Improved Binary Search
 Here is Java code that will perform a binary search on an increasing ArrayList and return the *first* index where the target value occurs. Note that an ordinary binary search will return an index where the target occurs but not necessarily the first (for the simplest case, imagine an array list of five threes, [3, 3, 3, 3, 3]. If you search for 3, an ordinary binary search will yield position 2, whereas this method will yield position 0).
 
-```
+```java
 public int binarySearchGetFirst(int value){
 
 	// create assign variables  representing the high, low and middle indices 
@@ -52,7 +52,7 @@ public int binarySearchGetFirst(int value){
 
 [This unplugged activity](https://replit.com/@mthomas42/cohort-3-summer-work-marieke-thomas#methods/04_unplugged.md) allows students to act out code to improve their understanding of control flow in Python. An exerpt of the pseudocode is shown below:
 
-```
+```python
   if input > 5:
      Stand up (on the floor)
      hop on one foot 3 times

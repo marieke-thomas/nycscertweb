@@ -1,10 +1,11 @@
 # Hunter College Advanced CS Education Certificate Portfolio
 ## CSCI 70900: Programming In a High-Level Language
-### Name of first assignment
-![Picture of Conway's Game of Life Simulation](cgolPicture.png "Text to show on mouseover")
+### Conway's Game of Life Animation
+![Picture of Conway's Game of Life Simulation](cgolPicture.png "Animation of Conway's Game of Life")
 
-### Name of second assignment
-stuff
+### SuperArray
+This project creates from scratch a class called SuperArray (similar to Java's built-in ArrayList class).
+[Link to SuperArray code]([https://link-url-here.org](https://replit.com/@mthomas42/cohort-3-summer-work-marieke-thomas#programming/6/sa/SuperArray.java))
 
 
 ## CSCI 70300 – Data Structures in a High Level Language

@@ -11,7 +11,7 @@ See the code [here](https://replit.com/@mthomas42/cohort-3-summer-work-marieke-t
 
 ## CSCI 70300 – Data Structures in a High Level Language
 ### Improved Binary Search
-Here is Java code that will perform a binary search on an increasing ArrayList and return the *first* index where the target value occurs. Note that an ordinary binary search will return an index where the target occurs but not necessarily the first (for the simplest case, imagine an array list of five threes, [3, 3, 3, 3, 3]. If you search for 3, an ordinary binary search will yield index 2, whereas this method will yield position 0).
+Here is Java code that will perform a binary search on an increasing ArrayList and return the *first* index where the target value occurs. Note that an ordinary binary search will return an index where the target occurs but not necessarily the first (for the simplest case, imagine an array list of five threes, [3, 3, 3, 3, 3]. If you search for 3, an ordinary binary search will yield position 2, whereas this method will yield position 0).
 
 ```
 public int binarySearchGetFirst(int value){
